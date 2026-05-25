@@ -159,7 +159,7 @@ EDA-Project/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/EDA-Project.git
+https://github.com/45670945/DecodeLabs-Internship-project-2.git
 ```
 
 ## 2️⃣ Install Required Libraries
