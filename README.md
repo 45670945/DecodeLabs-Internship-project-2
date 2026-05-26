@@ -60,7 +60,7 @@ The dataset contains:
 | NumPy            | Numerical Operations      |
 | Matplotlib       | Data Visualization        |
 | Seaborn          | Statistical Visualization |
-| Colab Notebook   | Analysis Environment      |
+| Jupyter Notebook   | Analysis Environment      |
 
 ---
 
@@ -171,7 +171,7 @@ pip install pandas numpy matplotlib seaborn
 ## 3️⃣ Run colab Notebook
 
 ```bash
-colab notebook
+Jupyter notebook
 ```
 
 Open:
